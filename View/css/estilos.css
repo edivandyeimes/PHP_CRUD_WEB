@@ -1,0 +1,57 @@
+/* CSS Document */
+
+/* AJUSTES GERAIS */
+
+* {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	text-decoration: none;
+
+}
+
+#rodape {
+	
+	
+	background: #066100;
+	text-align: center;
+        
+}
+
+#rodape span{
+	font-size: 11px;
+	color: #FFF;
+}
+
+/* TITULO DA PAGINA  */
+
+.form h2{
+    color:#066100;
+}
+.alert{
+    margin: 0px;
+}
+.row, .container-fluid{
+    background:#d2d6de;
+}
+
+.form{
+    background:white; 
+    padding: 40px;
+}
+
+
+
+/* TABELA DE DADOS */
+
+
+#salvar, #alterar, #deletar{
+	font-size: 15px;
+	color: #FFF;
+	padding: 5px 20px;
+	margin: 20px;
+	background: #066100;
+	border: 1px solid #FFF;
+	float: left;
+
+}
