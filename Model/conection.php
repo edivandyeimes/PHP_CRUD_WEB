@@ -6,7 +6,7 @@ class Conection {
     var $host = "127.0.0.1";
     var $user = "root";
     var $pass = "";
-    var $base = "ifnmg";
+    var $base = "database";
     var $conn;
 
     function getConection() {
