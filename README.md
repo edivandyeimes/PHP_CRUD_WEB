@@ -1,6 +1,6 @@
-# Web book registration system
+#Book registration web system
 
-PHP, Bootstrap
+PHP, Bootstrap, Mysql
 
 Functions:
 Create,
